@@ -1,0 +1,6 @@
+langchain
+langchain_cohere
+langgraph
+streamlit
+python-dotenv
+mysql-connector-python
